@@ -1,0 +1,8 @@
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\bin\Debug\ClickCountUp.exe
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\bin\Debug\ClickCountUp.pdb
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\obj\Debug\ClickCountUp.Form1.resources
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\obj\Debug\ClickCountUp.Properties.Resources.resources
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\obj\Debug\ClickCountUp.csproj.GenerateResource.Cache
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\obj\Debug\ClickCountUp.exe
+C:\Users\0831\Documents\GitHub\ClickCountUp\ClickCountUp\obj\Debug\ClickCountUp.pdb
